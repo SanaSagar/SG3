@@ -1,0 +1,3 @@
+Good Morning
+Happy Monday
+Welcome to git
