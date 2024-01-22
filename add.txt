@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 good morning
+=======
+Good Morning
+Happy Monday
+Welcome to git
+>>>>>>> f3377a94072d4e0710ea1250dd82a3b712a706e1
